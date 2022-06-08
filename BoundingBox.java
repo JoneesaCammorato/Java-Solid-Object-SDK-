@@ -1,11 +1,6 @@
 /**
- * Joneesa Cammorato
- * Cps141- Spring 2022
  * 22 April 2022
- * Instructor: Adam Divelbiss
- * Assignment : Program09
  * Purpose: computes length, width, and height and computes data for box that holds objects 
- * @author joneesacammorato
  *
  */
 
