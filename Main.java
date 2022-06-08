@@ -1,11 +1,6 @@
 /**
- * Joneesa Cammorato
- * Cps141- Spring 2022
  * 22 April 2022
- * Instructor: Adam Divelbiss
- * Assignment : Program09
  * Purpose: main file that runs test and outputs object data to console
- * @author joneesacammorato
  *
  */
 
