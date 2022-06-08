@@ -1,11 +1,6 @@
 /**
- * Joneesa Cammorato
- * Cps141- Spring 2022
  * 22 April 2022
- * Instructor: Adam Divelbiss
- * Assignment : Program09
  * Purpose: computes data for sphere
- * @author joneesacammorato
  *
  */
 
